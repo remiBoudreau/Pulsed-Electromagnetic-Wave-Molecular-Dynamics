@@ -10,6 +10,6 @@ To execute:
 
 For details of this code, refer to the following chapter of my [thesis](https://tspace.library.utoronto.ca/bitstream/1807/103164/1/Boudreau_Jean-Michel_Remi_202011_MSc_thesis.pdf): 
 1. Necessary theory, Chapter 2.
-2. Parameters and applications of this code, Chapter 3.
+2. Code Structure, Chapter 3.
 
 Documentation in progress.
